@@ -4,5 +4,5 @@ philly
 limo
 mall
 mallEvil
-school
-schoolEvil
+whitty
+whittycrazy
